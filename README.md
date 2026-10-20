@@ -1,6 +1,7 @@
 # Who Handles This?: AI for the confusion of government letters/notices
 
 Client: City of San José, Government Notices
+
 Team: Jennie Jiang, David Chen, William Ledwell, Naina Minhas, Aug–Oct 2026
 
 My part: I made the presentation slides, wrote the AI feasibility report, and contributed to continuous testing of our prototype to ensure it runs smoothly. 
