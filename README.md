@@ -8,7 +8,6 @@ My part: I made the presentation slides, wrote the AI feasibility report, and co
 The city of San Jose has three government department, the city, the county, and the state; residents get let letters and notices from the government and don't know where to go to for more information. This is especially harder for those who are not fluent in English. 
 
 ## What we built
-[Three bullets: what the prototype does, what the user sees, what a human still decides.]
 * Residents can type the notice into the website or upload a picture of their government letter.
 * Our website will then redirect the residents to the correct department of their notice for more information and next steps.
 * The resident can go through the right departments to find the solution of their problem.  
